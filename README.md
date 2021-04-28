@@ -5,7 +5,7 @@ Ganz ehrlich, ich glaube Du übernimmst Dich mit diesem Einstieg in Python. Naja
 
 Mit
 
-    python -m venv ENV
+    python3 -m venv ENV
 
 erstellst Du ein "Virtualenv", das ist eine winbzige kleine Python-Installation, die vom Python des Betriebssystems etwas abgeschirmt ist.
 
@@ -13,7 +13,7 @@ Dann mit
 
     source ENV/bin/activate
 
-aktivieren (bzw. `.\Scripts\activate.ps1` unter Windows+PowerShell oder `.\Scripts\activate.bat`unter Windows+CMD).
+aktivieren (bzw. `.\Scripts\Activate.ps1` unter Windows+PowerShell oder `.\Scripts\activate.bat`unter Windows+CMD).
 
 Dann mit
 
